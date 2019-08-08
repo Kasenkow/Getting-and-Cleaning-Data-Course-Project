@@ -1,11 +1,6 @@
-# Getting-and-Cleaning-Data-Course-Project
-This repo is created for educational purposes of collecting, working with and cleaning data sets in R. The assignment is from coursera's (https://www.coursera.org/learn/data-cleaning)
 ## Getting-and-Cleaning-Data-Course-Project
 This repository is created for educational purposes of collecting, working with and cleaning data sets in R. The assignment is from Coursera's [**"Getting and Cleaning Data" course**](https://www.coursera.org/learn/data-cleaning).
 
-[TOCM]
-
-[TOC]
 ## Contents of the repository:
 - [**"README.md"**](https://github.com/Kasenkow/Getting-and-Cleaning-Data-Course-Project/blob/master/README.md) markdown file (the current file) – contains description of the repository, main purpose of the project, the assignment’s description, the process of files’ creation and additional information.
 - [**"run_analysis.R"**](https://github.com/Kasenkow/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R) script. R-script to process the data.
